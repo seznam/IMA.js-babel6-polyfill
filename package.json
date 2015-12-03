@@ -1,0 +1,30 @@
+{
+	"name": "ima.js-babel6-polyfill",
+	"version": "0.1.0",
+	"description": "Babel 6 polyfill for IE<=10",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/seznam/IMA.js-babel6-polyfill.git"
+	},
+	"publishConfig": {
+		"registry": "http://registry.npmjs.org/"
+	},
+	"keywords": [
+    "gulp",
+    "ima.js",
+    "ima",
+    "babel6",
+	"polyfill",
+	"IE<=10"
+  ],
+	"author": "Seznam.cz, a.s.",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/seznam/IMA.js-babel6-polyfill/issues"
+	},
+	"homepage": "https://github.com/seznam/IMA.js-babel6-polyfill"
+}
