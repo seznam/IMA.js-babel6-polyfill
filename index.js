@@ -1,5 +1,7 @@
 (function() {
-	if (!(Object.setPrototypeOf || {}.__proto__)) {
+	var testObject = {};
+
+	if (!(Object.setPrototypeOf || testObject.__proto__)) {
 		var nativeGetPrototypeOf = Object.getPrototypeOf;
 
 		Object.getPrototypeOf = function(object) {
