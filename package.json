@@ -1,6 +1,6 @@
 {
-	"name": "ima.js-babel6-polyfill",
-	"version": "0.1.1",
+	"name": "ima-babel6-polyfill",
+	"version": "0.12.0",
 	"description": "Babel 6 polyfill for IE<=10",
 	"main": "index.js",
 	"scripts": {
